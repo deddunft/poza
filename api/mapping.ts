@@ -96,6 +96,6 @@ export const stakePoolsWithHostnames: {
   
   {
     stakePoolAddress: 'BWTwtx9VNjo3aNwmMzb34JgePDFeFiNotczoQ4PKEuDk',
-    hostname: 'https://lonfostake.netlify.app/',
+    hostname: 'stake.lonfo.net',
   }
 ]
